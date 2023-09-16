@@ -22,7 +22,6 @@ In this challenge, we utilize machine learning techniques to predict whether exi
 
 ## Instructions for Submission
 
-- The main predictions can be found in the `prediction_submission.csv` file.
 - To explore the project, run the provided Jupyter notebook and follow the steps outlined within.
 - Modify the models and preprocessing techniques to improve prediction accuracy.
 
