@@ -1,7 +1,5 @@
 # Churn Prediction for Video Streaming Service
 
-![COUR_IPO.png](attachment:COUR_IPO.png)
-
 ## Introduction
 
 Welcome to the Data Science Coding Challenge! This project aims to predict churn for a video streaming service. Churn prediction is a critical task for subscription-based businesses to retain their customers effectively.
@@ -35,7 +33,3 @@ This project reflects significant efforts in data preprocessing, model selection
 Feel free to explore, modify, and enhance the project to achieve even better results!
 
 ---
-
-In your actual README file, you would replace placeholders like `[COUR_IPO.png]`, `[data_descriptions.csv]`, and `[prediction_submission.csv]` with actual images, file names, and appropriate hyperlinks.
-
-Make sure to tailor the README to your specific project, highlighting the key efforts and technologies you utilized.
